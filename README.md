@@ -1,4 +1,4 @@
-![logo](https://github.com/vinayaklucky/mycloud/blob/main/vinayaka%20s%20h.png)
+![logo](https://github.com/vinayaklucky/vinayaklucky/blob/main/vinayaka%20s%20h%20(1).png)
 <h1 align="center">Hi 👋, I'm Vinayaka S H</h1>
 <h3 align="center">AWS Certified DevOps Engineer from India</h3>
 
